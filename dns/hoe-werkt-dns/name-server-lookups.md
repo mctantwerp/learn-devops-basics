@@ -28,5 +28,11 @@ De broncode van de [dnsrecords.io](https://dnsrecords.io) website is ook te vind
 
 ## Around the world
 
+Als alle mensen ter wereld telkens naar uw nameserver moeten gaan om een DNS record te "resolven" dan gaat uw server zwaar belast worden en als mensen aan de andere kant van de wereld wonen dan gaat dat niet snel gaan en we willen toch een snel internet, right?
+
+{% hint style="info" %}
+"resolven" \(resolve / resolving\) is het omzetten van een naam \(bvb. kdg.be\) naar een IP adres \(bvb `123.123.123.123`\). Je zal deze term wel meer horen, zeker onder sysadmins.
+{% endhint %}
+
 
 
