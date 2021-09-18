@@ -10,7 +10,7 @@
 * [Hoe werkt DNS](dns/hoe-werkt-dns/README.md)
   * [Domeinextensies](dns/hoe-werkt-dns/domeinextenties.md)
   * [Name server lookups](dns/hoe-werkt-dns/name-server-lookups.md)
-* [DNS configuration](dns/dns-configuration/README.md)
+* [DNS configuratie](dns/dns-configuration/README.md)
   * [A record](dns/dns-configuration/a-record.md)
   * [NS record](dns/dns-configuration/ns-record.md)
   * [MX record](dns/dns-configuration/mx-record.md)
