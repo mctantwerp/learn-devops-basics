@@ -1,6 +1,6 @@
-# Domeinextenties
+# Domeinextensies
 
-Een domeinextentie \(zoals .be\) heet eigenijk een **TLD.** Dit staat voor **T**op **L**evel **D**omain.
+Een domeinextensie \(zoals .be\) heet eigenijk een **TLD.** Dit staat voor **T**op **L**evel **D**omain.
 
 Zo heb je bvb. country code TLD's:
 
@@ -17,7 +17,9 @@ Hier kunnen er altijd nog bijkomen als iemand door het goedkeuring process voor 
 
 {% embed url="https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en" %}
 
-> Niet alle TLD's zijn publiek re registreren. Sommige landen en of bedrijven hebben hier strikte regels voor.
+{% hint style="info" %}
+Niet alle TLD's zijn publiek re registreren. Sommige landen en of bedrijven hebben hier strikte regels voor.
+{% endhint %}
 
 Op dit moment zijn dit alle beschikbare TLD's:
 

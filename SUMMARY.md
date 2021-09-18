@@ -7,7 +7,7 @@
 
 * [Wat is DNS](dns/untitled.md)
 * [Hoe werkt DNS](dns/hoe-werkt-dns/README.md)
-  * [Domeinextenties](dns/hoe-werkt-dns/domeinextenties.md)
+  * [Domeinextensies](dns/hoe-werkt-dns/domeinextenties.md)
 
 ## Hosting
 
