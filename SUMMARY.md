@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introductie](README.md)
+* [Thanks to Combell](thanks-to-combell.md)
 * [Wat is web hosting](wat-is-web-hosting.md)
 
 ## DNS
