@@ -4,6 +4,8 @@
 
 * [https://www.youtube.com/watch?v=Xrgk023l4lI](https://www.youtube.com/watch?v=Xrgk023l4lI)
 * [https://www.combell.com](https://www.combell.com)
+* [https://google.com](https://google.com)
+* [https://en.wikipedia.org/wiki/IPv4](https://en.wikipedia.org/wiki/IPv4)
 
 ### Website of andere bronnen die gebruikt zijn voor het opstellen van de inhoud
 

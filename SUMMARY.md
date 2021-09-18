@@ -5,7 +5,7 @@
 
 ## DNS
 
-* [Untitled](dns/untitled.md)
+* [Wat is DNS?](dns/untitled.md)
 
 ## Hosting
 
