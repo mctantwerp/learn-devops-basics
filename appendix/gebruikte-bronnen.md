@@ -15,10 +15,13 @@
 * [https://spatie.be](https://spatie.be)
 * [https://dnsrecords.io](https://dnsrecords.io)
 * [https://root-servers.org/](https://root-servers.org/)
+* [https://www.cloudflare.com/learning/dns/glossary/dns-root-server/](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
 
 ### Website of andere bronnen die gebruikt zijn voor het opstellen van de inhoud
 
 * [https://www.youtube.com/watch?v=Xrgk023l4lI](https://www.youtube.com/watch?v=Xrgk023l4lI)
 * [https://www.combell.com](https://www.combell.com)
 * [https://www.webhostingsecretrevealed.net/blog/web-hosting-guides/what-is-the-difference-between-a-domain-and-web-hosting/](https://www.webhostingsecretrevealed.net/blog/web-hosting-guides/what-is-the-difference-between-a-domain-and-web-hosting/)
+* [https://www.cloudflare.com/learning/dns/glossary/dns-root-server/](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
+* [https://www.cloudflare.com/learning/dns/glossary/dns-zone/](https://www.cloudflare.com/learning/dns/glossary/dns-zone/)
 

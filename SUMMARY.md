@@ -9,6 +9,13 @@
 * [Hoe werkt DNS](dns/hoe-werkt-dns/README.md)
   * [Domeinextensies](dns/hoe-werkt-dns/domeinextenties.md)
   * [Name server lookups](dns/hoe-werkt-dns/name-server-lookups.md)
+* [DNS configuration](dns/dns-configuration/README.md)
+  * [A record](dns/dns-configuration/a-record.md)
+  * [NS record](dns/dns-configuration/ns-record.md)
+  * [MX record](dns/dns-configuration/mx-record.md)
+  * [TXT record](dns/dns-configuration/txt-record.md)
+  * [AAAA record](dns/dns-configuration/aaaa-record.md)
+  * [CNAME record](dns/dns-configuration/cname-record.md)
 
 ## Hosting
 
