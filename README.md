@@ -1,6 +1,6 @@
 # Introductie
 
-## Devops
+## Devops f
 
 Vooraleer ik begin moet ik iets opbiechten. Eigenlijk gaat deze cursus niet echt over devops. Ik gebruik het hier meer als marketing term voor waar het later ooit allemaal gaat in uitmonden. In deze cursus gaan we het voornamelijk hebben over de **Hosting basics**.
 
