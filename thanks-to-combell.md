@@ -2,7 +2,7 @@
 
 ### 🥳 Thanks!
 
-Combell, één van europa's grootste hosting leveranciers, is zo vrij geweest om ons te sponsoren in onze conquest naar knowledge around hosting. How cool is that!!
+Combell, één van europa's grootste hosting leveranciers, is zo vrij geweest om ons te sponseren in onze conquest naar knowledge around hosting. How cool is that!!
 
 Dus ... for all your hosting needs ... [https://www.combell.com](https://www.combell.com)
 
