@@ -6,8 +6,6 @@ Je kan hosting een beetje bekijken zoals een huis.
 
 * Een huis heeft een adres.
 
-
-
 * Een huis heeft, wel ..., een huis 😅
 
 * Een huis heeft meubels.
