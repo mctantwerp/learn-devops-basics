@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introductie](README.md)
-* [Grow.](grow..md)
 * [Wat is web hosting](wat-is-web-hosting.md)
 
 ## DNS
@@ -22,5 +21,6 @@
 
 ## APPENDIX
 
+* [Grow.](appendix/grow..md)
 * [Gebruikte bronnen](appendix/gebruikte-bronnen.md)
 
