@@ -12,6 +12,9 @@
 * [https://www.combell.com/nl/domeinnamen](https://www.combell.com/nl/domeinnamen)
 * [https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en](https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en)
 * [https://www.youtube.com/watch?v=jf-x76XYY2o](https://www.youtube.com/watch?v=jf-x76XYY2o)
+* [https://spatie.be](https://spatie.be)
+* [https://dnsrecords.io](https://dnsrecords.io)
+* [https://root-servers.org/](https://root-servers.org/)
 
 ### Website of andere bronnen die gebruikt zijn voor het opstellen van de inhoud
 

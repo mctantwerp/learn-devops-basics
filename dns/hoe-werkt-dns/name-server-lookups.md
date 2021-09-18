@@ -34,5 +34,15 @@ Als alle mensen ter wereld telkens naar uw nameserver moeten gaan om een DNS rec
 "resolven" \(resolve / resolving\) is het omzetten van een naam \(bvb. kdg.be\) naar een IP adres \(bvb `123.123.123.123`\). Je zal deze term wel meer horen, zeker onder sysadmins.
 {% endhint %}
 
+De oplossing voor dit probleem zijn **root servers**. Root servers zijn servers die opereren in de DNS root zone. Zo heb je 13 root servers, van a tot m. bvb. a.root-servers.org, b.root-servers.org, ...
+
+Deze root servers gaan DNS ook cachen
+
+{% hint style="info" %}
+Meer info over welke root servers er allemaal zijn en door wie ze beheerd worden vind je op [https://root-servers.org/](https://root-servers.org/)
+
+Meer info over wat een root server juist is vind je hier: [https://www.cloudflare.com/learning/dns/glossary/dns-root-server/](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
+{% endhint %}
+
 
 
