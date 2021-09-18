@@ -4,6 +4,8 @@ description: Lessen of snackable content op grow rond deze topic.
 
 # Grow.
 
+Ter ondersteuning van deze cursus kan je op grow filmpjes vinden waar of heel de les of bepaalde onderdelen nog eens extra uitgelegd worden.
+
 ## Lessen
 
 * [Volledige les hosting basics](https://grow.nxtmedia.technology/video/102-hosting-basics)

@@ -18,7 +18,7 @@ Maar er zijn **4.294 biljoen** ipv4 IP adressen in de wereld. Als we die moeten 
 Een [ipv4](https://en.wikipedia.org/wiki/IPv4) adres is een 32-bit adres dat als volgt geformuleerd wordt: `123.123.123.123`. Omdat deze adressen op beginnen te geraken hebben we tegenwoordig ook [ipv6](https://en.wikipedia.org/wiki/IPv6) adressen om terug "plaats" te maken op het internet.
 {% endhint %}
 
-Dus 4.294 biljoen verschillende nummertje die we niet kunnen onthouden, hoe doen we dat dan wel? Well, ... here comes DNS into play
+Dus 4.294 biljoen verschillende nummertjes die we niet kunnen onthouden, hoe doen we dat dan wel? Well, ... here comes DNS into play
 
 ## Domain Name Service
 

@@ -26,3 +26,7 @@ Daar kan je op de website intypen over welk domein of welke record je meer infor
 De broncode van de [dnsrecords.io](https://dnsrecords.io) website is ook te vinden op de github van spatie: [https://github.com/spatie/dnsrecords.io](https://github.com/spatie/dnsrecords.io)
 {% endhint %}
 
+## Around the world
+
+
+

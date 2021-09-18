@@ -30,5 +30,12 @@ Lees hier meer over Name server lookups:
 
 {% page-ref page="name-server-lookups.md" %}
 
+## DNS records
 
+We weten nu al dat we:
+
+* [ ] Een domeinnaam registreren op een bepaalde extensie
+* [ ] Een nameserver op deze naam moeten instellen
+
+Next up: een configuratie koppelen aan je domeinnaam.
 
