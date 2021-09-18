@@ -14,5 +14,7 @@ Je kan hosting een beetje bekijken zoals een huis.
 
 Je hebt uiteindelijk dan ook meerdere huizen in een dorp of gemeente.
 
-&lt;link to datacenter&gt;
+{% page-ref page="hosting/web-hosting/datacenters.md" %}
+
+
 

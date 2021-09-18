@@ -13,7 +13,8 @@
 
 ## Hosting
 
-* [Untitled](hosting/untitled.md)
+* [Web hosting](hosting/web-hosting/README.md)
+  * [Datacenters](hosting/web-hosting/datacenters.md)
 
 ## Combell
 
