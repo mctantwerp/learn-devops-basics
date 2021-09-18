@@ -33,5 +33,3 @@ Combell heeft een interessant artikel geschreven over hoe je A records bij combe
 
 {% embed url="https://www.combell.com/nl/help/kb/wat-is-een-a-record-hoe-kan-ik-een-a-record-aanmaken-wijzigen/" %}
 
-
-

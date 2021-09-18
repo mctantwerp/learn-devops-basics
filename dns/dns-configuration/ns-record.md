@@ -42,5 +42,3 @@ Combell heeft een interessant artikel geschreven over hoe je nameservers bij com
 
 {% embed url="https://www.combell.com/nl/help/kb/naar-welke-nameservers-verwijst-mijn-domeinnaam/\#setting" %}
 
-
-
