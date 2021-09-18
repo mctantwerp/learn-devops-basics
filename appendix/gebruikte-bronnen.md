@@ -11,6 +11,7 @@
 * [https://en.wikipedia.org/wiki/List\_of\_Internet\_top-level\_domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 * [https://www.combell.com/nl/domeinnamen](https://www.combell.com/nl/domeinnamen)
 * [https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en](https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en)
+* [https://www.youtube.com/watch?v=jf-x76XYY2o](https://www.youtube.com/watch?v=jf-x76XYY2o)
 
 ### Website of andere bronnen die gebruikt zijn voor het opstellen van de inhoud
 

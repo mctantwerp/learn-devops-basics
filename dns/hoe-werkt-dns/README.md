@@ -22,3 +22,13 @@ Via [dns.be](https://dns.be) kan je bvb. bekijken welke nameserver [kdg.be](http
 
 Dus in dit geval zullen de servers van **belnet** ons kunnen vertellen dat de website van KdG op het ip adres `94.176.99.133` staat.
 
+{% hint style="info" %}
+Het opzoeken van een nameserver \(of andere DNS gerelateerde informatie\) noemt men een **name server lookup** \(kort: **nslookup**\)
+{% endhint %}
+
+Lees hier meer over Name server lookups:
+
+{% page-ref page="name-server-lookups.md" %}
+
+
+
