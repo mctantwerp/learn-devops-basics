@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Introductie](README.md)
-* [Wat is web hosting?](wat-is-web-hosting.md)
+* [Wat is web hosting](wat-is-web-hosting.md)
 
 ## DNS
 
-* [Wat is DNS?](dns/untitled.md)
+* [Wat is DNS](dns/untitled.md)
+* [Hoe werkt DNS](dns/hoe-werkt-dns/README.md)
+  * [Domeinextenties](dns/hoe-werkt-dns/domeinextenties.md)
 
 ## Hosting
 

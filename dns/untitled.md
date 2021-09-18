@@ -1,4 +1,6 @@
-# Wat is DNS?
+# Wat is DNS
+
+## Een grote verzameling van IP adressen
 
 Een website staat op een webserver. Zoals je computer thuis in een netwerk staat \(al dan niet wifi\) en op dat netwerk een IP adres heeft, staat een webserver ook in een netwerk \("het internet"\) en heeft die dus ook een IP adres.
 
@@ -16,7 +18,15 @@ Maar er zijn **4.294 biljoen** ipv4 IP adressen in de wereld. Als we die moeten 
 Een [ipv4](https://en.wikipedia.org/wiki/IPv4) adres is een 32-bit adres dat als volgt geformuleerd wordt: 123.123.123.123. Omdat deze adressen op beginnen te geraken hebben we tegenwoordig ook [ipv6](https://en.wikipedia.org/wiki/IPv6) adressen om terug "plaats" te maken op het internet.
 {% endhint %}
 
-Dus 4.294 biljoen verschillende nummertje die we niet kunnen onthouden, hoe doen we dat dan wel? Well, ... here comes DNS into play.
+Dus 4.294 biljoen verschillende nummertje die we niet kunnen onthouden, hoe doen we dat dan wel? Well, ... here comes DNS into play
+
+## Domain Name Service
 
 DNS staat voor **D**omain **N**ame **S**ervice. Weet je nog, ons huis met het adres? DNS is dat adres. Dat verteld ons dus waar je website staat.
+
+Dus met DNS kan je een naam koppelen aan een nummertje. bvb.:
+
+> www.mijnwebsite.be = 173.194.69.99
+
+DNS zal ons dan vertellen dat we www.mijnwebsite.be eigenlijk moeten gaan zoeken op de webserver met IP adres 173.194.69.99.
 

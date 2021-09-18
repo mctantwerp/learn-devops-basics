@@ -1,4 +1,4 @@
-# Wat is web hosting?
+# Wat is web hosting
 
 ![Vergelijking hosting met een huis](.gitbook/assets/img_compare_house_hosting-2479.jpg)
 
