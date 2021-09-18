@@ -29,3 +29,9 @@ Je zal merken dat we voor de root, dus bvb. **kdg.be** \(zonder www\) een @ gebr
 A records mag je enkel gebruiken om hostnames \(namen\) naar een IP adres te verwijzen. Je mag hier geen andere hostname ingeven. Hiervoor gebruiken we [CNAME](cname-record.md) records.
 {% endhint %}
 
+Combell heeft een handige uitleg geschreven over hoe wat een A record is en hoe je deze op het combell control panel kan instellen.
+
+{% embed url="https://www.combell.com/nl/help/kb/wat-is-een-a-record-hoe-kan-ik-een-a-record-aanmaken-wijzigen/" %}
+
+
+
