@@ -1,38 +1,32 @@
-# Introductie
+# Usage
 
-## Devops
+* Zorg ervoor dat je zeker python3 hebt
+* Installeer mkdocs (`pip install mkdocs`)
+* Installeer mkdocs-material (`pip install mkdocs-material`)
+* Installeer de vereiste packages (Zie `Gebruikte packages` onderaan)
+* Use `mkdocs serve` om de site lokaal te kunnen bekijken
 
-Vooraleer ik begin moet ik iets opbiechten. Eigenlijk gaat deze cursus niet echt over devops. Ik gebruik het hier meer als marketing term voor waar het later ooit allemaal gaat in uitmonden. In deze cursus gaan we het voornamelijk hebben over de **Hosting basics**.
+## Belangrijk!
 
-Nieuwsgierig wat die devops dan wel is? Check onderstaand youtube filmpje!
+Wij gebruiken het **material insiders** thema wat ons extra features en opties geeft. Als je lokaal test kan het zijn dat niet alles er grafisch doorkomt zoals je zou willen op basis van de kitchensink. Don't worry! Eens dit online gebuild wordt komt dit helemaal goed.
 
-{% embed url="https://www.youtube.com/watch?v=Xrgk023l4lI" %}
+Bij grotere aanpassingen of het schrijven van mini courses zal er altijd een online testomgeving voorzien worden waarop je kan testen en al je aanpassingen wel kan bekijken. Contacteer sam.serrien@kdg.be indien je hier gebruik van wil maken.
 
-## Hosting
+# Gebruikte packages
 
-OK, geen Devops. Wel hosting. Maar wat is die hosting dan?
+pip install mkdocs-git-committers-plugin-2
+pip install mkdocs-git-revision-date-localized-plugin
+pip install mkdocs-git-authors-plugin
 
-Heel simpel ... Hosting is ... 🥁
+# Interesting features / settings
 
-> Je website bereikbaar maken via het internet.
+## Geen toggles maar sections voor 1ste level van navigatie
 
-![](.gitbook/assets/img_webhosting-2473.jpg)
+```md
+features
+    - navigation.sections
+```
 
-Some buzzwords: \#hoster \#datacenter \#shared \#vps \#dedicated \#cloud \#scalability \#uptime \#continious integration \#automation \#deployment \#ftp \#sftp \#ssh \#git \#svn \#devops
+# Usefull links
 
-![](.gitbook/assets/img_hosting_tagcloud-2468.jpg)
-
-Dus ... hosting is uiteraard meer dan gewoon "uw website online krijgen". In deze basis cursus zullen we ontdekken wat dat allemaal inhoud zodat we onze eerste simpele website online kunnen zetten.
-
-### 🥳 Thanks!
-
-Combell, één van europa's grootste hosting leveranciers, is zo vrij geweest om ons te sponsoren in onze conquest naar knowledge around hosting. How cool is that!!
-
-Dus ... for all your hosting needs ... [https://www.combell.com](https://www.combell.com)
-
-![](.gitbook/assets/combell_nv_logo.png)
-
-{% hint style="info" %}
-Ben je een hoster en wil je graag de studenten ook kennis laten maken met jouw hosting + control panel e.d.? Dit is een open cursus die altijd uitgebreid kan worden dus doe gerust! Meer info op [https://learn.mctantwerp.be/welkom/you-rock](https://learn.mctantwerp.be/welkom/you-rock)
-{% endhint %}
-
+* [Icons van fontawesome met hun code](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)

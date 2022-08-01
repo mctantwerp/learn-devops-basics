@@ -24,4 +24,3 @@
 * [https://www.webhostingsecretrevealed.net/blog/web-hosting-guides/what-is-the-difference-between-a-domain-and-web-hosting/](https://www.webhostingsecretrevealed.net/blog/web-hosting-guides/what-is-the-difference-between-a-domain-and-web-hosting/)
 * [https://www.cloudflare.com/learning/dns/glossary/dns-root-server/](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
 * [https://www.cloudflare.com/learning/dns/glossary/dns-zone/](https://www.cloudflare.com/learning/dns/glossary/dns-zone/)
-
