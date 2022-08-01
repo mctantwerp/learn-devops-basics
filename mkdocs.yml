@@ -11,6 +11,22 @@ copyright: Karel de Grote Hogeschool<br>Multimedia & Creatieve Technologie
 
 nav:
   - 👋 Welkom: index.md
+  - DNS:
+    - dns/index.md
+    - Hoe werkt DNS:
+      - dns/hoe-werkt-dns/domeinextenties.md
+      - dns/hoe-werkt-dns/name-server-lookups.md
+    - DNS Records:
+      - dns/dns-configuration/a-record.md
+      - dns/dns-configuration/aaaa-record.md
+      - dns/dns-configuration/cname-record.md
+      - dns/dns-configuration/mx-record.md
+      - dns/dns-configuration/ns-record.md
+      - dns/dns-configuration/txt-record.md
+  - Hosting:
+    - hosting/index.md
+    - hosting/wat-is-web-hosting.md
+    - hosting/datacenters.md
   - ❓ Appendix:
     - appendix/index.md
     - appendix/grow.md

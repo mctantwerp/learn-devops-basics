@@ -10,12 +10,12 @@ Als je niet meer weet wat een IP adres is? Een IP adres is een unieke nummer van
 
 Dus welke website staat op een webserver en elke webserver heeft een IP adres. Als we surfen naar dat IP adres komen we terecht op die webserver.
 
-Je zal bvb. merken dat als je naar [http://172.217.23.110](http://172.217.23.110) surft dat je op [google.com](https://google.com) terecht komt.
+Je zal bvb. merken dat als je naar [http://172.217.23.110](http://172.217.23.110){:target="_blank"} surft dat je op [google.com](https://google.com) terecht komt.
 
 Maar er zijn **4.294 biljoen** ipv4 IP adressen in de wereld. Als we die moeten gaan onthouden voor elke website ... Like WTF, onmogelijk!
 
 {% hint style="info" %}
-Een [ipv4](https://en.wikipedia.org/wiki/IPv4) adres is een 32-bit adres dat als volgt geformuleerd wordt: `123.123.123.123`. Omdat deze adressen op beginnen te geraken hebben we tegenwoordig ook [ipv6](https://en.wikipedia.org/wiki/IPv6) adressen om terug "plaats" te maken op het internet.
+Een [ipv4](https://en.wikipedia.org/wiki/IPv4){:target="_blank"} adres is een 32-bit adres dat als volgt geformuleerd wordt: `123.123.123.123`. Omdat deze adressen op beginnen te geraken hebben we tegenwoordig ook [ipv6](https://en.wikipedia.org/wiki/IPv6){:target="_blank"} adressen om terug "plaats" te maken op het internet.
 {% endhint %}
 
 Dus 4.294 biljoen verschillende nummertjes die we niet kunnen onthouden, hoe doen we dat dan wel? Well, ... here comes DNS into play
@@ -29,4 +29,3 @@ Dus met DNS kan je een naam koppelen aan een nummertje. bvb.:
 > www.mijnwebsite.be = `173.194.69.99`
 
 DNS zal ons dan vertellen dat we www.mijnwebsite.be eigenlijk moeten gaan zoeken op de webserver met IP adres `173.194.69.99`.
-

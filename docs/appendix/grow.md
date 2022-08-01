@@ -1,7 +1,3 @@
----
-description: Lessen of snackable content op grow rond deze topic.
----
-
 # Grow.
 
 Ter ondersteuning van deze cursus kan je op grow filmpjes vinden waar of heel de les of bepaalde onderdelen nog eens extra uitgelegd worden.
@@ -19,4 +15,3 @@ Ter ondersteuning van deze cursus kan je op grow filmpjes vinden waar of heel de
 * [How DNS works](https://grow.nxtmedia.technology/video/dns-explained)
 
 👉[Alle basic level video's op grow](https://grow.nxtmedia.technology/videos/filter?filter%5Bquest%5D=hosting&filter%5Blevel%5D=&filter%5Bcraft%5D=&filter%5Btier%5D=beginner&filter%5Bsearch%5D=)
-

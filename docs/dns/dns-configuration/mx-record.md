@@ -21,7 +21,7 @@ bvb. voor kdg.be
 
 Je merkt dat er bij kdg.be maar 1 mx record is ingesteld in tegenstelling tot het advies dat we zonet gaven. Dat is omdat ze de backup record mee in de A record hebben geplaatst. Dus dit heeft hetzelfde effect.
 
-![](../../.gitbook/assets/cleanshot-2021-09-18-at-23.21.11.png)
+![](/_resources/graphics/cleanshot-2021-09-18-at-23.21.11.png)
 
 De technische notatie van deze records is alsvolgt:
 
@@ -37,4 +37,3 @@ De technische notatie van deze records is alsvolgt:
 Combell heeft een interessant artikel geschreven over hoe je mx records bij combell kan beheren.
 
 {% embed url="https://www.combell.com/nl/help/kb/wat-is-een-mx-record-hoe-kan-ik-een-mx-record-aanmaken-wijzigen/" %}
-

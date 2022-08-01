@@ -1,6 +1,6 @@
 # Wat is web hosting
 
-![Vergelijking hosting met een huis](.gitbook/assets/img_compare_house_hosting-2479.jpg)
+![Vergelijking hosting met een huis](/_resources/graphics/img_compare_house_hosting-2479.jpg)
 
 Je kan hosting een beetje bekijken zoals een huis.
 
@@ -14,7 +14,4 @@ Je kan hosting een beetje bekijken zoals een huis.
 
 Je hebt uiteindelijk dan ook meerdere huizen in een dorp of gemeente.
 
-{% page-ref page="hosting/web-hosting/datacenters.md" %}
-
-
-
+[Button text](/hosting/web-hosting/datacenters.md){.md-button target="_blank"}

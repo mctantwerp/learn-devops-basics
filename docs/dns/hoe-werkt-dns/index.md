@@ -18,7 +18,7 @@ Een nameserver is een server die weet waar je website "woont". Dus de server die
 
 Via [dns.be](https://dns.be) kan je bvb. bekijken welke nameserver [kdg.be](https://www.kdg.be) gebruikt.
 
-![](../../.gitbook/assets/cleanshot-2021-09-18-at-17.16.45.jpg)
+![](/_resources/graphics/cleanshot-2021-09-18-at-17.16.45.jpg)
 
 Dus in dit geval zullen de servers van **belnet** ons kunnen vertellen dat de website van KdG op het ip adres `94.176.99.133` staat.
 
@@ -38,4 +38,3 @@ We weten nu al dat we:
 * [ ] Een nameserver op deze naam moeten instellen
 
 Next up: een configuratie koppelen aan je domeinnaam.
-
