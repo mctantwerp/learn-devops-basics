@@ -11,9 +11,11 @@ copyright: Karel de Grote Hogeschool<br>Multimedia & Creatieve Technologie
 
 nav:
   - 👋 Welkom: index.md
+  - Ons huis: ons-huis.md
   - DNS:
-    - dns/index.md
+    - Introductie: dns/index.md
     - Hoe werkt DNS:
+      - Introductie: dns/hoe-werkt-dns/index.md
       - dns/hoe-werkt-dns/domeinextenties.md
       - dns/hoe-werkt-dns/name-server-lookups.md
     - DNS Records:
@@ -43,6 +45,7 @@ theme:
     - navigation.instant
     - navigation.top
     - navigation.indexes
+    - navigation.sections
     - content.code.annotate
     - search.highlight
     - search.share

@@ -33,4 +33,4 @@ Dus ... for all your hosting needs ... [https://www.combell.com](https://www.com
 ![](/_resources/graphics/combell_nv_logo.png)
 
 !!! info "Sharing is caring!"
-    Ben je een hoster en wil je graag de studenten ook kennis laten maken met jouw hosting + control panel e.d.? Dit is een open cursus die altijd uitgebreid kan worden dus doe gerust! Meer info op [https://learn.mctantwerp.be/welkom/you-rock](https://learn.mctantwerp.be/you-rock/){:target="_blank"}
+    Ben je een hoster en wil je graag de studenten ook kennis laten maken met jouw hosting + control panel e.d.? Dit is een open cursus die altijd uitgebreid kan worden dus doe gerust! Meer info op [https://learn.mctantwerp.be/you-rock/bijdragen/](https://learn.mctantwerp.be/you-rock/bijdragen/){:target="_blank"}
