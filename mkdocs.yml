@@ -27,7 +27,7 @@ nav:
       - dns/dns-configuration/txt-record.md
   - Hosting:
     - hosting/index.md
-    - hosting/wat-is-web-hosting.md
+    #- hosting/wat-is-web-hosting.md
     - hosting/datacenters.md
   - ❓ Appendix:
     - appendix/index.md
@@ -45,7 +45,7 @@ theme:
     - navigation.instant
     - navigation.top
     - navigation.indexes
-    - navigation.sections
+    #- navigation.sections
     - content.code.annotate
     - search.highlight
     - search.share
