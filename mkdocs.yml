@@ -13,18 +13,19 @@ nav:
   - 👋 Welkom: index.md
   - Ons huis: ons-huis.md
   - DNS:
-    - Introductie: dns/index.md
+    - dns/index.md
     - Hoe werkt DNS:
-      - Introductie: dns/hoe-werkt-dns/index.md
-      - dns/hoe-werkt-dns/domeinextenties.md
+      - dns/hoe-werkt-dns/index.md
+      - dns/hoe-werkt-dns/domeinextensies.md
       - dns/hoe-werkt-dns/name-server-lookups.md
     - DNS Records:
+      - dns/dns-configuration/index.md
       - dns/dns-configuration/a-record.md
-      - dns/dns-configuration/aaaa-record.md
       - dns/dns-configuration/cname-record.md
       - dns/dns-configuration/mx-record.md
-      - dns/dns-configuration/ns-record.md
       - dns/dns-configuration/txt-record.md
+      - dns/dns-configuration/ns-record.md
+      - dns/dns-configuration/aaaa-record.md
   - Hosting:
     - hosting/index.md
     #- hosting/wat-is-web-hosting.md
@@ -45,11 +46,11 @@ theme:
     - navigation.instant
     - navigation.top
     - navigation.indexes
-    #- navigation.sections
     - content.code.annotate
     - search.highlight
     - search.share
     - search.suggest
+    - content.tooltips
 
   icon:
     repo: fontawesome/brands/github

@@ -2,9 +2,8 @@
 
 Met MX records kan je zeggen waar de mail op je domein moet toekomen. Dus de servers die je mail afhandeling doen.
 
-{% hint style="info" %}
-Zoals bij nameservers ga je bij MX records ook meerdere records instellen om te garanderen dat je mail zeker toekomt.
-{% endhint %}
+!!! info ""
+    Zoals bij nameservers ga je bij MX records ook meerdere records instellen om te garanderen dat je mail zeker toekomt.
 
 bvb. voor combell.be
 
@@ -34,6 +33,5 @@ De technische notatie van deze records is alsvolgt:
 @ IN MX 10 kdg-be.mail.protection.outlook.com.
 ```
 
-Combell heeft een interessant artikel geschreven over hoe je mx records bij combell kan beheren.
-
-{% embed url="https://www.combell.com/nl/help/kb/wat-is-een-mx-record-hoe-kan-ik-een-mx-record-aanmaken-wijzigen/" %}
+!!! tip "Meer lezen?"
+    Combell heeft een interessant artikel geschreven over [hoe je mx records bij combell kan beheren](https://www.combell.com/nl/help/kb/wat-is-een-mx-record-hoe-kan-ik-een-mx-record-aanmaken-wijzigen/){:target="_blank"}.

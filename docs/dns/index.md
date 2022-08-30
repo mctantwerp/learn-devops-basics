@@ -6,17 +6,17 @@
 
 ## Een grote verzameling van IP adressen
 
-Een website staat op een webserver. Zoals je computer thuis in een netwerk staat \(al dan niet wifi\) en op dat netwerk een IP adres heeft, staat een webserver ook in een netwerk \("het internet"\) en heeft die dus ook een IP adres.
+Een website staat op een webserver. Zoals je computer thuis in een netwerk staat (al dan niet wifi) en op dat netwerk een IP adres heeft, staat een webserver ook in een netwerk ("het internet") en heeft die dus ook een IP adres.
 
 !!! info "IP adres"
-    Als je niet meer weet wat een IP adres is? Een IP adres is een unieke nummer van een computer waardoor je op een netwerk tussen verschillende computers kan communiceren. Enkele voorbeelden: `127.0.0.1` \(localhost, je eigen computer of server\), `192.168.0.1` \(een intern bereikbaar ip adres\), `195.12.45.65` \(een extern bereikbaar ip adres op het internet\)
+    Als je niet meer weet wat een IP adres is? Een IP adres is een unieke nummer van een computer waardoor je op een netwerk tussen verschillende computers kan communiceren. Enkele voorbeelden: `127.0.0.1` (localhost, je eigen computer of server), `192.168.0.1` (een intern bereikbaar ip adres), `195.12.45.65` (een extern bereikbaar ip adres op het internet)
 
 !!! info "Web server"
     Een webserver is eigenlijk een computer die een specifiek doel heeft. In dit geval het "serveren" van websites. Meestal zijn servers wel wat krachtiger als gewone computers en hebben deze niet perse bvb. een scherm of keyboard aangesloten.
 
 Dus elke website staat op een webserver en elke webserver heeft een IP adres. Als we surfen naar dat IP adres komen we terecht op die webserver.
 
-Je zal bvb. merken dat als je naar [http://172.217.23.110](http://172.217.23.110){:target="_blank"} surft dat je op [google.com](https://google.com) terecht komt.
+Je zal bvb. merken dat als je naar [http://172.217.23.110](http://172.217.23.110){:target="_blank"} surft dat je op [google.com](https://google.com){:target="_blank"} terecht komt.
 
 Maar er zijn **4.294 biljoen** ipv4 IP adressen in de wereld. Als we die moeten gaan onthouden voor elke website ... Like WTF, onmogelijk!
 

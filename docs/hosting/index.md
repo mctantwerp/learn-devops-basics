@@ -1,6 +1,6 @@
 # Web hosting
 
-We hebben dus onze DNS \(**adres**\) die naar een een server \(ons **huis**\) verwijst. Hoe zorgen we nu voor dat huis... 🤔
+We hebben dus onze DNS (**adres**) die naar een een server (ons **huis**) verwijst. Hoe zorgen we nu voor dat huis... 🤔
 
 Je kan uiteraard zelf thuis een server opzetten en deze voor het internet beschikbaar maken maar dat is niet wat tegenwoordig gangbaar zijn. Er zijn tal van **bedrijven** die **servers** ter **beschikking** stellen voor u om uw website op te zetten. Deze bedrijven nomen we "**hosters**".
 

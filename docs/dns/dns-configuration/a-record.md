@@ -1,43 +1,25 @@
 # A record
 
-De A record is de basis record. Deze verwijst een host \(naam\) naar een server \(IP adres\).  
+De A record is de basis record. Deze verwijst een host (naam) naar een server (IP adres).
 Je kan ook een **wildcard** record aanmaken dmv het gebruiken van een **`*`** als je die gebruikt gaat alles wat je in de plaats zet naar dat specifiek IP adres.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Hostname</th>
-      <th style="text-align:left">IP adres</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">www.kdg.be</td>
-      <td style="text-align:left">94.176.99.133</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">kdg.be</td>
-      <td style="text-align:left">94.176.99.133</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">www.genx.be</td>
-      <td style="text-align:left">162.55.59.3</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>*.staging.be</p>
-        <p>= test.staging.be</p>
-        <p>= mywebsite.staging.be</p>
-        <p>= ...staging.be</p>
-      </td>
-      <td style="text-align:left">123.123.123.123</td>
-    </tr>
-  </tbody>
-</table>
+<div class="annotate" markdown>
+
+| Hostname      | IP adres        |
+| ------------- | --------------- |
+| `www.kdg.be`  | 94.176.99.133   |
+| `kdg.be`      | 94.176.99.133   |
+| `www.genx.be` | 162.55.59.3     |
+| `*.staging.be`  | 123.123.123.123 |
+
+</div>
+
+!!! info "__*__"
+    __*__ is een wildcard, je kan hier dus eender wat zetten. bvb.: __test__.staging.be, __mywebsite__.staging.be,... Al deze records zullen dan allemaal naar hetzelfde IP adres gaan.
 
 De technische notatie van deze records is als volgt:
 
-```bash
+```md
 # voor kdg.be
 www IN A 94.176.99.133
 @ IN A 94.176.99.133
@@ -49,15 +31,11 @@ www IN A 162.55.59.3
 * IN A 123.123.123.123
 ```
 
-{% hint style="info" %}
-Je zal merken dat we voor de root, dus bvb. **kdg.be** \(zonder www\) een @ gebruiken.
-{% endhint %}
+!!! info ""
+    Je zal merken dat we voor de root, dus bvb. **kdg.be** (zonder www) een @ gebruiken.
 
-{% hint style="warning" %}
-A records mag je enkel gebruiken om hostnames \(namen\) naar een IP adres te verwijzen. Je mag hier geen andere hostname ingeven. Hiervoor gebruiken we [CNAME](cname-record.md) records.
-{% endhint %}
+!!! warning "LET OP"
+    A records mag je enkel gebruiken om hostnames (namen) naar een __IP adres__ te verwijzen. Je mag hier geen andere hostname ingeven. Hiervoor gebruiken we [CNAME](cname-record.md) records.
 
-Combell heeft een interessant artikel geschreven over hoe je A records bij combell kan beheren.
-
-{% embed url="https://www.combell.com/nl/help/kb/wat-is-een-a-record-hoe-kan-ik-een-a-record-aanmaken-wijzigen/" %}
-
+!!! tip "Meer lezen?"
+    Combell heeft een interessant artikel geschreven over [hoe je A records bij combell kan beheren](https://www.combell.com/nl/help/kb/wat-is-een-a-record-hoe-kan-ik-een-a-record-aanmaken-wijzigen/){:target="_blank"}.
