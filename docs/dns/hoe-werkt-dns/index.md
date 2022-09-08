@@ -42,4 +42,4 @@ We weten nu dus al dat we:
 * [x] Een domeinnaam registreren op een bepaalde domeinnaam extensie
 * [x] Een nameserver op deze domeinnaam moeten instellen
 
-[Next up: een configuratie koppelen aan je domeinnaam. :material-arrow-right:](#){ .md-button }
+[Next up: een configuratie koppelen aan je domeinnaam. :material-arrow-right:](/dns/dns-configuration/){ .md-button }
